@@ -1,0 +1,18 @@
+button.quest-choice {
+    padding-top : 20px;
+}
+
+button {
+    background-color :#440065;
+    color : white;
+    border-radius : 5px;
+    font-style : arial;
+}
+
+li {
+    list-style : none;
+}
+
+li button {
+    margin-top : 20px;
+}
